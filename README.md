@@ -6,12 +6,12 @@
 ## Team :
   1. Udhayakumar L   (Team Leader)
   2. Naveen Akshi D  (Team Member 1)
-  2. Vishnu S        (Team Member 2)
-  2. Vasudevan R     (Team Member 3)
+  3. Vishnu S        (Team Member 2)
+  4. Vasudevan R     (Team Member 3)
 
 
 ## Industry Mentor(s) :
-  Name: Sowjanya, Sandeep Doodigani
+  Name: Navya
 
 ## Faculty Mentor(s) :
   Name : JENIFER J
