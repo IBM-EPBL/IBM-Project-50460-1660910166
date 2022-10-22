@@ -1,7 +1,6 @@
 # IBM-Project-50460-1660910166 </br>
 **Project Title : Plasma Donor Application**
 
----
 
 ## Team :
   1. Udhayakumar L   (Team Leader)
