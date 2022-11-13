@@ -24,4 +24,7 @@ During the COVID 19 crisis, the requirement of plasma became a high priority and
   Name: Navya
 
 ## Faculty Mentor :
-  Name : JENIFER J
+  Name : Jenifer J
+
+## Architecture 
+<img src="https://lh3.googleusercontent.com/pM5nGeJ4XmlApNFqEJbiJwEP1iWX8DeC8Ej3FkOprsYqvYOnCLg0q2hoGIk0d1UwGGsDb0Sa34bulFckh0Mc2lrMctUMycLyXzgFbr3TWAuUcLO1C5tuPUoaEW-rtflBp24SN0QD" width=600>
